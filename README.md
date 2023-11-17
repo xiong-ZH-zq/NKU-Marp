@@ -1,5 +1,5 @@
-# NKU-Marp
-适用于南开大学的NKU主题，改编自Awesome-Marp主题：https://github.com/favourhong/Awesome-Marp ，仅供学习交流使用。
+# NKU-Marp-Themes
+本仓库存放适用于南开大学的Marp主题，基本改编自相关的Marp主题，每个部分会给到链接。
 ## 配置环境
 对于Marp的初学者，可以直接在 vscode 中下载 marp-for-vscode 使用，需要打开 `enable HTML` 选项（对 Obsidian 的 Marp-Slides 插件也同样），否则无法渲染源文件中的HTML标签，例如以下代码：
 
@@ -20,12 +20,20 @@ $$
 </div>
 ```
 
-## 相较于 Awesome-Marp 的变化
+
+
+----
+
+## NKU-Marp
+
+本主题改编自Awesome-Marp主题：<a href="https://github.com/favourhong/Awesome-Marp">Awesome-Marp主题</a> ，仅供学习交流使用。在此感谢原作者。
+
+### 相较于 Awesome-Marp 的变化
 
 - 主题色改为南开紫；
 - 校徽校训等内容改为南开大学的校徽与校训；
 - 示例文件给出校徽图片，可直接套用；
 - 给出数学公式的示例；
 
-## 后续更新
+### 后续更新
 后续可能会根据具体需求进行更改，并改编更多友校的Marp主题。
