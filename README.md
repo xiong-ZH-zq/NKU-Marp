@@ -21,6 +21,25 @@ $$
 ```
 
 
+----
+## NKU-Beamer
+本主题改编自 Beam 主题：<a href="https://github.com/rnd195/my-marp-themes">Beam Theme</a>，效果类似Beamer，但比较简单，适合短平快的Presentation.
+
+### 相较于 Beam 主题的变化
+- 主题色改为 NKU 相关的颜色主题，例如经典的南开紫；
+- 新增目录页 `contents` ，并定制为有序列表方案；
+- 新增致谢页 `final` ，为简洁起见仅更改二级标题。若二级标题使用字体 `Edwardian Script ITC` 在你的设备上没有，可以直接在CSS文件中更改；
+- 字体增加中文字体；
+- 底部栏更改颜色及内容；
+
+### 效果预览
+<img width="459" alt="image" src="https://github.com/xiong-ZH-zq/NKU-Marp/assets/68729283/d3d1bd04-e305-4f6c-bfee-40e9a367ed4a">
+<img width="457" alt="image" src="https://github.com/xiong-ZH-zq/NKU-Marp/assets/68729283/06efc55d-cb1d-4f94-a148-ccf44d036cd3">
+<img width="461" alt="image" src="https://github.com/xiong-ZH-zq/NKU-Marp/assets/68729283/d0e69072-dc5a-4ec0-bb48-c946bb10f60d">
+
+
+
+
 
 ----
 
